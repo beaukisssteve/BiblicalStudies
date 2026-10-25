@@ -1,0 +1,1 @@
+Biblical References uses Obsidian to read and create notes.  You are welcome to Fork this and create your own notes,  this is just a format that I plan on continuing to develop as my study continues. 
